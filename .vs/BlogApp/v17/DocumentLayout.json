@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\views\\shared\\_navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:views\\shared\\_navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\data\\blogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:data\\blogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\models\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:models\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|c:\\users\\user\\onedrive\\desktop\\my attempt\\blogapp\\data\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2C189-5DF1-43B9-8B2A-ACAF156D27E6}|BlogApp.csproj|solutionrelative:data\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-19T14:29:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAADeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:25:08.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Navigation.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Views\\Shared\\_Navigation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Navigation.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Views\\Shared\\_Navigation.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Navigation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T08:31:45.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Controllers\\BlogController.cs",
+              "ViewState": "AQIAAEgAAAAAlZmZmZktwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:29:14.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Data\\Author.cs",
+              "RelativeDocumentMoniker": "Data\\Author.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Data\\Author.cs",
+              "RelativeToolTip": "Data\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:26:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Models\\BlogDto.cs",
+              "RelativeDocumentMoniker": "Models\\BlogDto.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Models\\BlogDto.cs",
+              "RelativeToolTip": "Models\\BlogDto.cs",
+              "ViewState": "AQIAAAsAAACAmZmZmZkhwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:25:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Data\\BlogData.cs",
+              "RelativeDocumentMoniker": "Data\\BlogData.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Data\\BlogData.cs",
+              "RelativeToolTip": "Data\\BlogData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:25:34.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "Views\\Blog\\Create.cshtml",
+              "ViewState": "AQIAADQAAAAALjMzMzMrwDsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T08:24:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\My Attempt\\BlogApp\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T08:21:53.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+﻿@model BlogApp.Models.BlogDto
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Blog Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.content)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.content)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.datePublish)
+        </dt>
+
+        <dd>
+            @String.Format("{0:D}", @Model.datePublish)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.authorId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.authorId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateCreated)
+        </dt>
+
+        <dd>
+            @String.Format("{0:F}", @Model.dateCreated)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateModified)
+        </dt>
+
+        <dd>
+            @String.Format("{0:F}", @Model.dateModified)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.blogId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
